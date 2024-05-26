@@ -1,0 +1,4 @@
+repository "hungry-bahamut7@sadexi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
